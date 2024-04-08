@@ -1,0 +1,334 @@
+{
+    "text->text": [
+        [
+            "Propose somewhere I can visit in Seattle, Washington.",
+            null,
+            null,
+            null
+        ],
+        [
+            "What is the best programming language in the world?",
+            null,
+            null,
+            null
+        ],
+        [
+            "What is the process of photosynthesis?",
+            null,
+            null,
+            null
+        ],
+        [
+            "How does encryption work? Provide an example of a simple encryption method.",
+            null,
+            null,
+            null
+        ],
+        [
+            "Correct the grammatical errors in this sentence: \"She don't like the consistent in the schedule.\"",
+            null,
+            null,
+            null
+        ],
+        [
+            "Is it ethical to use AI for surveillance? Discuss the pros and cons.",
+            null,
+            null,
+            null
+        ],
+        [
+            "Should AI have rights? Why or why not?",
+            null,
+            null,
+            null
+        ],
+        [
+            "Give three tips for a beginner to learn Python.",
+            null,
+            null,
+            null
+        ],
+        [
+            "Explain what is Computer Vision.",
+            null,
+            null,
+            null
+        ],
+        [
+            "Propose some ideas about what I should eat this evening for a healthy diet.",
+            null,
+            null,
+            null
+        ]
+    ],
+    "text->image": [
+        [
+            "Show me a famous landmark in NYC.",
+            null,
+            null,
+            null
+        ],
+        [
+            "What does the inside of a beehive look like? Use an image to explain.",
+            null,
+            null,
+            null
+        ],
+        [
+            "Can you visualize the season of autumn?",
+            null,
+            null,
+            null
+        ],
+        [
+            "Generate a colorful photo of Australia's most famous animal.",
+            null,
+            null,
+            null
+        ],
+        [
+            "Recommend a famous attraction in Paris and create a watercolor painting of it.",
+            null,
+            null,
+            null
+        ],
+        [
+            "Design a modern logo for a technique company.",
+            null,
+            null,
+            null
+        ],
+        [
+            "Design a future mode of transportation and display it using images",
+            null,
+            null,
+            null
+        ],
+        [
+            "I am writing a popular science article about supernova explosions. Please help me design an illustration for this topic.",
+            null,
+            null,
+            null
+        ],
+        [
+            "Please generate an image to answer this riddle: The height of its legs, usually around 6 feet, is taller than most humans. What am I? (Tips: it is a kind of animal)",
+            null,
+            null,
+            null
+        ]
+    ],
+    "image->text": [
+        [
+            "Where was this photo taken?",
+            "assets/media/image/eiffel.jpg",
+            null,
+            null
+        ],
+        [
+            "What is the color of this fruit?",
+            "assets/media/image/raspberry.jpeg",
+            null,
+            null
+        ],
+        [
+            "Tell me about one of the most famous animals from this country.",
+            "assets/media/image/Australia.jpeg",
+            null,
+            null
+        ],
+        [
+            "Who is he?",
+            "assets/media/image/spiderman.webp",
+            null,
+            null
+        ],
+        [
+            "Please introduce the architectural style of this building.",
+            "assets/media/image/building.webp",
+            null,
+            null
+        ],
+        [
+            "What is the mustache made of?",
+            "assets/media/image/mustache.png",
+            null,
+            null
+        ],
+        [
+            "Please describe this scene.",
+            "assets/media/image/fireworks.jpg",
+            null,
+            null
+        ],
+        [
+            "What is the brand of this product?",
+            "assets/media/image/laptop.jpg",
+            null,
+            null
+        ],
+        [
+            "Write a short poem based on this.",
+            "assets/media/image/sea.jpg",
+            null,
+            null
+        ]
+    ],
+    "image->audio": [
+        [
+            "Can you compose a piece of soft music to showcase the timbre of this instrument?",
+            "assets/media/image/piano.jpg",
+            null,
+            null
+        ],
+        [
+            "What does this cute creature sound like?",
+            "assets/media/image/cat.jpg",
+            null,
+            null
+        ],
+        [
+            "Can you demonstrate the sound you might hear when you see this?",
+            "assets/media/image/train.jpeg",
+            null,
+            null
+        ],
+        [
+            "Could you show what sound you would expect to hear upon seeing this?",
+            "assets/media/image/fireworks.jpg",
+            null,
+            null
+        ],
+        [
+            "Compose music to express the mood.",
+            "assets/media/image/sea.jpg",
+            null,
+            null
+        ]
+    ],
+    "text->video": [
+        [
+            "Can you create a video to show a cute rabbit hopping around?",
+            null,
+            null,
+            null
+        ],
+        [
+            "Could you make a video featuring a playful kitten chasing a laser pointer?",
+            null,
+            null,
+            null
+        ],
+        [
+            "Is it possible to create a video of a squirrel gathering nuts in a park?",
+            null,
+            null,
+            null
+        ],
+        [
+            "Could you assemble a video of a panda cub rolling down a hill?",
+            null,
+            null,
+            null
+        ],
+        [
+            "Use a video to show a baby elephant playing with water.",
+            null,
+            null,
+            null
+        ]
+    ],
+    "image->image": [
+        [
+            "Convert this scene to an oil painting.",
+            "assets/media/image/eiffel.jpg",
+            null,
+            null
+        ],
+        [
+            "Design a logo for this product.",
+            "assets/media/image/lamp.jpg",
+            null,
+            null
+        ],
+        [
+            "Who is he? And please compose a cartoon style portrait for him.",
+            "assets/media/image/spiderman.webp",
+            null,
+            null
+        ],
+        [
+            "Show me an image of a dessert made with this ingredient.",
+            "assets/media/image/raspberry.jpeg",
+            null,
+            null
+        ],
+        [
+            "Paint a watercolor based on this scene.",
+            "assets/media/image/sea.jpg",
+            null,
+            null
+        ],
+        [
+            "Use an image to demonstrate what will happen to hatch this",
+            "assets/media/image/egg.webp",
+            null,
+            null
+        ]
+    ],
+    "others": [
+        [
+            "Turn this scene into a video.",
+            "assets/media/image/fireworks.jpg",
+            null,
+            null
+        ],
+        [
+            "Generate a cartoon video for this scene.",
+            "assets/media/image/train.jpeg",
+            null,
+            null
+        ],
+        [
+            "Use the provided material to create a short cartoon video.",
+            "assets/media/image/cat.jpg",
+            "assets/media/audio/dog.wav",
+            null
+        ],
+        [
+            "Please describe what you have seen and heard.",
+            "assets/media/image/fireworks.jpg",
+            "assets/media/audio/piano.mp3",
+            null
+        ],
+        [
+            "Please generate a short caption for this sound.",
+            null,
+            "assets/media/audio/dog.wav",
+            null
+        ],
+        [
+            "What animal's sound did you hear?",
+            null,
+            "assets/media/audio/cat.wav",
+            null
+        ],
+        [
+            "Please visualize this sound.",
+            null,
+            "assets/media/audio/dog.wav",
+            null
+        ],
+        [
+            "Visualize the instrument that is playing this music.",
+            null,
+            "assets/media/audio/piano.mp3",
+            null
+        ],
+        [
+            "Please describe what you have seen.",
+            null,
+            null,
+            "assets/media/video/dark.mp4"
+        ]
+    ]
+}
