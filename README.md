@@ -6,7 +6,7 @@
 
 ![ModaVerse](https://github.com/xinke-wang/ModaVerse/assets/45810070/0827efb2-5810-4133-9b4c-e70cabdd0f18)
 
-🎆🎆🎆 **Visit our online demo [here](https://xinke-wang.github.io/modaverse).**
+🎆🎆🎆 ~~**Visit our online demo [here](https://xinke-wang.github.io/modaverse).**~~
 
 ## TODO
 
@@ -93,7 +93,7 @@ ModaVerse(text_instruction)
 
 # With Multi-modal Input
 text_instruction = 'Please generate an audio of the sound for the animal in the image.'
-ModaVerse(text_instruction, ['assets/media/audio/cat.wav'])
+ModaVerse(text_instruction, ['assets/media/image/cat.jpg'])
 ```
 
 The output is saved in the `output` folder by default.
